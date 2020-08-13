@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*.pyd
+*.sublime-workspace
+*.tags*
+__pycache__
